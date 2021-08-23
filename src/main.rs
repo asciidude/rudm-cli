@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Project still in progress, GitHub was only templated");
 }
